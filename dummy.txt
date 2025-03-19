@@ -2,5 +2,9 @@ first step
 alana added
 third name Adarsh
 shyam addedddddd
+<<<<<<< HEAD
 
 git added by adarsh
+=======
+new
+>>>>>>> ca09de5a5aaa46e3fd5c52fb893952635165dbea
